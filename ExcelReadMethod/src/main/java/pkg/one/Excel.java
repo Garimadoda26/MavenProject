@@ -1,4 +1,4 @@
-package pkg.one;
+package pkg.one;  // tes1
 
 import java.io.FileInputStream;
 import java.io.IOException;
